@@ -23,12 +23,13 @@ This project demonstrates **modern Android development practices**, **clean arch
 
 ## 🖼️ App Screenshots
 
-| Popular Movies | Search Movies | Top Rated Movies |
-|---------------|-----------------|---------------|
-| <img src="https://github.com/user-attachments/assets/915d8fe6-2dde-49b7-bb82-5372484e5412" width="250"/> | <img src="https://github.com/user-attachments/assets/fa306933-921d-4fe2-9c80-294cf855f96a" width="250"/> | <img src="https://github.com/user-attachments/assets/b0e8b6b4-51f6-4086-8307-8976bb582a68" width="250"/> |
+| Splash Screen | Popular Movies | Top Rated Movies | Search Movies |
+|--------------|----------------|------------------|---------------|
+| <img src="https://github.com/user-attachments/assets/fec24038-f683-4de8-89f8-e256db4b7d94" width="250"/> | <img src="https://github.com/user-attachments/assets/915d8fe6-2dde-49b7-bb82-5372484e5412" width="250"/> | <img src="https://github.com/user-attachments/assets/fa306933-921d-4fe2-9c80-294cf855f96a" width="250"/> | <img src="https://github.com/user-attachments/assets/b0e8b6b4-51f6-4086-8307-8976bb582a68" width="250"/> |
 
 
 ---
+
 
 ## 🎥 Movie Details Screen
 
