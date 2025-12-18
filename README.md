@@ -1,6 +1,6 @@
 # 🎬 Movie DB App
 
-A modern **Android Movie Database application** built using **Kotlin** and **Jetpack Compose**.  
+A modern **Android Movie Database application** built using **Kotlin**
 The app allows users to explore popular movies, top-rated movies, and search movies with multiple filters.
 
 This project demonstrates **modern Android development practices**, **clean architecture**, and a **smooth UI experience**.
@@ -45,13 +45,12 @@ The Movie Details screen provides complete information about a selected movie, i
 ## 🛠️ Tech Stack
 
 - **Language**: Kotlin  
-- **UI**: Jetpack Compose  
+- **UI**: Kotlin
 - **Architecture**: MVVM  
 - **Networking**: Retrofit  
 - **State Management**: ViewModel + StateFlow  
 - **Image Loading**: Coil  
-- **Navigation**: Jetpack Navigation Component  
-- **Dependency Injection**: Hilt (if used)
+- **Navigation**: Navigation Component  
 
 ---
 
@@ -59,7 +58,7 @@ The Movie Details screen provides complete information about a selected movie, i
 
 The app follows **MVVM architecture**:
 
-- **UI Layer (Compose Screens)** – Displays state from ViewModel
+- **UI Layer (Layout Screens)** – Displays state from ViewModel
 - **ViewModel** – Manages UI state and business logic
 - **Repository** – Handles data operations
 - **Remote Data Source** – Fetches data from Movie API
